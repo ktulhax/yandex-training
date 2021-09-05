@@ -1,1 +1,1 @@
-# yandex-training
+# yandex-training-2.0
